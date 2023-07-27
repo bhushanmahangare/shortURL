@@ -1,0 +1,78 @@
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T08:51:51.257Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T08:55:26.272Z"}
+{"level":"info","message":"Inserted URL :: https://asfasfaasfa.asfasfasincasasfasf.asfnasfnn232rnlasfas.scaom","timestamp":"2023-07-27T08:55:30.330Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T08:55:30.332Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T08:56:33.720Z"}
+{"level":"info","message":"Inserted URL :: https://asfasfaasfa.asfasfasincasasfasf.asfnasfnn232rnlasfas.scaom","timestamp":"2023-07-27T08:56:35.242Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T08:56:35.246Z"}
+{"level":"info","message":"Inserted ShortURL ","timestamp":"2023-07-27T08:56:56.493Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T08:56:56.494Z"}
+{"level":"info","message":"Check ShortURL present in Redis cache ","timestamp":"2023-07-27T08:56:56.495Z"}
+{"level":"info","message":"Fetched data:","timestamp":"2023-07-27T08:56:56.498Z"}
+{"level":"info","message":"Data Fetch ","timestamp":"2023-07-27T08:56:56.499Z"}
+{"level":"info","message":"check ShortURL present in Mysql DB","timestamp":"2023-07-27T08:56:56.499Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T08:57:16.021Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T09:05:33.092Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:06:19.522Z"}
+{"level":"error","message":"Short URL not found: o72BFW","timestamp":"2023-07-27T09:06:19.522Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T09:16:07.354Z"}
+{"level":"info","message":"Inserted URL :: https://asfasfaasfa.asfasfasincasasfasf.asfnasfnn232rnlasfas.scaom","timestamp":"2023-07-27T09:16:17.302Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:16:17.304Z"}
+{"level":"info","message":"Inserted ShortURL ","timestamp":"2023-07-27T09:16:24.255Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:16:24.256Z"}
+{"level":"info","message":"Check ShortURL present in Redis cache ","timestamp":"2023-07-27T09:16:24.256Z"}
+{"level":"info","message":"Fetched data:","timestamp":"2023-07-27T09:16:24.259Z"}
+{"level":"info","message":"Data Fetch ","timestamp":"2023-07-27T09:16:24.259Z"}
+{"level":"info","message":"check ShortURL present in Mysql DB","timestamp":"2023-07-27T09:16:24.260Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T09:17:31.356Z"}
+{"level":"info","message":"Inserted URL :: https://asfasfaasfa.asfasfasincasasfasf.asfnasfnn232rnlasfas.scaom","timestamp":"2023-07-27T09:17:34.214Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:17:34.215Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T09:17:56.923Z"}
+{"level":"info","message":"Inserted URL :: https://asfasfaasfa.asfasfasincasasfasf.asfnasfnn232rnlasfas.scaom","timestamp":"2023-07-27T09:17:58.216Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:17:58.217Z"}
+{"level":"info","message":"Inserted URL :: 234234","timestamp":"2023-07-27T09:18:10.805Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:18:10.806Z"}
+{"level":"info","message":" Hash String 994b579fe9db3e4b8b4642b13f126b407c1d11e2","timestamp":"2023-07-27T09:18:10.806Z"}
+{"level":"info","message":{"shortURL":"tFmA9H","url":"234234"},"timestamp":"2023-07-27T09:18:10.807Z"}
+{"level":"info","message":"Short URL: 234234 maps to Long URL: tFmA9H","timestamp":"2023-07-27T09:18:10.808Z"}
+{"level":"info","message":"Data inserted successfully into Redis!","timestamp":"2023-07-27T09:18:10.810Z"}
+{"level":"info","message":"Data inserted successfully!","timestamp":"2023-07-27T09:18:10.813Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T09:21:45.066Z"}
+{"level":"info","message":"Inserted URL :: 234234","timestamp":"2023-07-27T09:21:49.643Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:21:49.644Z"}
+{"level":"info","message":"Inserted URL :: 234234","timestamp":"2023-07-27T09:23:13.345Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:23:13.348Z"}
+{"level":"info","message":"Inserted URL :: 234234","timestamp":"2023-07-27T09:23:15.157Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:23:15.158Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T09:23:21.648Z"}
+{"level":"info","message":"Inserted URL :: 234234","timestamp":"2023-07-27T09:23:22.624Z"}
+{"level":"info","message":"Inserted URL :: https://google.com","timestamp":"2023-07-27T09:23:29.542Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:23:29.543Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T09:29:02.004Z"}
+{"level":"info","message":"Inserted URL :: https://google.com","timestamp":"2023-07-27T09:29:08.330Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:29:08.332Z"}
+{"level":"info","message":"Inserted ShortURL ","timestamp":"2023-07-27T09:29:14.884Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:29:14.886Z"}
+{"level":"info","message":"Check ShortURL present in Redis cache ","timestamp":"2023-07-27T09:29:14.886Z"}
+{"level":"info","message":"Fetched data:","timestamp":"2023-07-27T09:29:14.889Z"}
+{"level":"info","message":"Data Fetch ","timestamp":"2023-07-27T09:29:14.889Z"}
+{"level":"info","message":"check ShortURL present in Mysql DB","timestamp":"2023-07-27T09:29:14.889Z"}
+{"level":"info","message":"Inserted ShortURL ","timestamp":"2023-07-27T09:29:17.282Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:29:17.282Z"}
+{"level":"info","message":"Check ShortURL present in Redis cache ","timestamp":"2023-07-27T09:29:17.282Z"}
+{"level":"info","message":"Fetched data:","timestamp":"2023-07-27T09:29:17.283Z"}
+{"level":"info","message":"Data Fetch ","timestamp":"2023-07-27T09:29:17.284Z"}
+{"level":"info","message":"check ShortURL present in Mysql DB","timestamp":"2023-07-27T09:29:17.284Z"}
+{"level":"info","message":"Inserted ShortURL ","timestamp":"2023-07-27T09:29:46.554Z"}
+{"level":"info","message":"Data fetech successfully","timestamp":"2023-07-27T09:29:46.554Z"}
+{"level":"info","message":"Check ShortURL present in Redis cache ","timestamp":"2023-07-27T09:29:46.555Z"}
+{"0":{"url":"https://stova.io"},"level":"info","message":"Fetched data:","timestamp":"2023-07-27T09:29:46.556Z"}
+{"level":"info","message":"Data Fetch ","timestamp":"2023-07-27T09:29:46.556Z"}
+{"level":"info","message":"check ShortURL present in Mysql DB","timestamp":"2023-07-27T09:29:46.556Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T09:43:53.488Z"}
+{"level":"info","message":"Server started and listening on port 3000","timestamp":"2023-07-27T09:44:03.044Z"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"Error while shortening URL: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","stack":"TypeError: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined\n    at new NodeError (node:internal/errors:393:5)\n    at Hash.update (node:internal/crypto/hash:109:11)\n    at update (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:61:44)\n    at generateShortURL (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:27:22)\n    at Layer.handle [as handle_request] (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/route.js:144:13)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:443:7\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:349:5","timestamp":"2023-07-27T09:44:03.106Z"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"Error while shortening URL: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","stack":"TypeError: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined\n    at new NodeError (node:internal/errors:393:5)\n    at Hash.update (node:internal/crypto/hash:109:11)\n    at update (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:61:44)\n    at generateShortURL (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:27:22)\n    at Layer.handle [as handle_request] (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/route.js:144:13)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:443:7\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:349:5","timestamp":"2023-07-27T09:44:03.151Z"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"Error while shortening URL: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","stack":"TypeError: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined\n    at new NodeError (node:internal/errors:393:5)\n    at Hash.update (node:internal/crypto/hash:109:11)\n    at update (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:61:44)\n    at generateShortURL (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:27:22)\n    at Layer.handle [as handle_request] (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/route.js:144:13)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:443:7\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:349:5","timestamp":"2023-07-27T09:44:03.158Z"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"Error while shortening URL: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","stack":"TypeError: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined\n    at new NodeError (node:internal/errors:393:5)\n    at Hash.update (node:internal/crypto/hash:109:11)\n    at update (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:61:44)\n    at generateShortURL (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:27:22)\n    at Layer.handle [as handle_request] (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/route.js:144:13)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:443:7\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:349:5","timestamp":"2023-07-27T09:44:03.163Z"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"Error while shortening URL: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","stack":"TypeError: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined\n    at new NodeError (node:internal/errors:393:5)\n    at Hash.update (node:internal/crypto/hash:109:11)\n    at update (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:61:44)\n    at generateShortURL (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/app.js:27:22)\n    at Layer.handle [as handle_request] (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express/lib/router/route.js:144:13)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:443:7\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /home/aventri/NodeJs/Bhushan_URL_Shortener_Application_July_27_2023/node_modules/express-rate-limit/dist/index.cjs:349:5","timestamp":"2023-07-27T09:44:03.169Z"}
